@@ -11,3 +11,7 @@
 3. generate_license 生成license文件
 4. test_license_api 测试license文件
 5. test 伪造数据测试
+
+# 求关注，分享C++，机器视觉，编码等方面
+- 微信公众号小朱玩CV示例代码，欢迎关注微信公众号：小朱玩CV
+- ![image](qrcode_for_gh_4a4b0bf3b55a_258.jpg)
