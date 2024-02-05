@@ -5,4 +5,9 @@
 
 # 如何使用?
 - api文件夹里面是封装好的库接口，分为生成license和检验license
-- test文件夹里面分别是生成硬件码，生成license，检验license的调用demo
+- test文件夹里面都是demo，demo使用顺序可以:
+1. generate_RSA 生成rsa密钥
+2. generate_hardwarecode 生成硬件编码
+3. generate_license 生成license文件
+4. test_license_api 测试license文件
+5. test 伪造数据测试
